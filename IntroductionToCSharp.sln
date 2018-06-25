@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2035
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "CSC101", "CSC101", "{E231E37E-1EEA-4035-9B6E-05A1318E78E9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloXamU", "CSC101\HelloXamU\HelloXamU.csproj", "{9CDCEB96-B996-4633-925A-221B105878F2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Retirementapp", "CSC101\Retirementapp\Retirementapp.csproj", "{5ACF8139-267C-4739-89ED-B9CCD5EC2BC6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9CDCEB96-B996-4633-925A-221B105878F2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9CDCEB96-B996-4633-925A-221B105878F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9CDCEB96-B996-4633-925A-221B105878F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9CDCEB96-B996-4633-925A-221B105878F2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5ACF8139-267C-4739-89ED-B9CCD5EC2BC6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5ACF8139-267C-4739-89ED-B9CCD5EC2BC6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5ACF8139-267C-4739-89ED-B9CCD5EC2BC6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5ACF8139-267C-4739-89ED-B9CCD5EC2BC6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{9CDCEB96-B996-4633-925A-221B105878F2} = {E231E37E-1EEA-4035-9B6E-05A1318E78E9}
+		{5ACF8139-267C-4739-89ED-B9CCD5EC2BC6} = {E231E37E-1EEA-4035-9B6E-05A1318E78E9}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {98468EB2-3A46-4039-BB29-E75C8808FE20}
+	EndGlobalSection
+EndGlobal
