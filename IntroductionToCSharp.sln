@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloXamU", "CSC101\HelloXa
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Retirementapp", "CSC101\Retirementapp\Retirementapp.csproj", "{5ACF8139-267C-4739-89ED-B9CCD5EC2BC6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BillCalculation", "CSC101\BillCalculation\BillCalculation.csproj", "{3D406901-4E28-499C-8CA0-AA31CA22A814}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -23,6 +25,10 @@ Global
 		{5ACF8139-267C-4739-89ED-B9CCD5EC2BC6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5ACF8139-267C-4739-89ED-B9CCD5EC2BC6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5ACF8139-267C-4739-89ED-B9CCD5EC2BC6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3D406901-4E28-499C-8CA0-AA31CA22A814}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D406901-4E28-499C-8CA0-AA31CA22A814}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D406901-4E28-499C-8CA0-AA31CA22A814}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D406901-4E28-499C-8CA0-AA31CA22A814}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -30,6 +36,7 @@ Global
 	GlobalSection(NestedProjects) = preSolution
 		{9CDCEB96-B996-4633-925A-221B105878F2} = {E231E37E-1EEA-4035-9B6E-05A1318E78E9}
 		{5ACF8139-267C-4739-89ED-B9CCD5EC2BC6} = {E231E37E-1EEA-4035-9B6E-05A1318E78E9}
+		{3D406901-4E28-499C-8CA0-AA31CA22A814} = {E231E37E-1EEA-4035-9B6E-05A1318E78E9}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {98468EB2-3A46-4039-BB29-E75C8808FE20}
